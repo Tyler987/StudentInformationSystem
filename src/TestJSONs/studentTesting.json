@@ -1,0 +1,60 @@
+[
+    {
+      "id": "2e9fb54c-51f1-4c89-9d1e-7ca4d3a01eb7",
+      "firstName": "Tawnie",
+      "lastName": "Hill",
+      "email": "thill@gmail.com",
+      "password": "thill12345",
+      "degreeId": "0649889f-5360-4e6d-9ca8-1777f0edaba1",
+      "uscId": "V52749618",
+      "gpa": 3.9,
+      "courses": [
+        "f56cc771-94d8-49fc-962b-0c63b760f02a",
+        "4a56823d-9544-4c36-bed1-c85b6b407360"
+      ],
+      "completed-courses": [
+        {
+          "preferredSemester": 1,
+          "coursesId": [],
+          "finalGrade": []
+        },
+        {
+          "preferredSemester": 2,
+          "coursesId": [],
+          "finalGrade": []
+        },
+        {
+          "preferredSemester": 3,
+          "coursesId": [],
+          "finalGrade": []
+        },
+        {
+          "preferredSemester": 4,
+          "coursesId": [],
+          "finalGrade": []
+        },
+        {
+          "preferredSemester": 5,
+          "coursesId": [],
+          "finalGrade": []
+        },
+        {
+          "preferredSemester": 6,
+          "coursesId": [],
+          "finalGrade": []
+        },
+        {
+          "preferredSemester": 7,
+          "coursesId": [],
+          "finalGrade": []
+        },
+        {
+          "preferredSemester": 8,
+          "coursesId": [],
+          "finalGrade": []
+        }
+      ],
+      "application_area": "Undecleared"
+    }
+  ]
+  

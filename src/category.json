@@ -1,0 +1,37 @@
+[
+  {
+    "id": "62c6f6f0-421f-4f25-be17-80015fb0f538",
+    "name": "Prerequisite",
+    "creditHours": 9
+  },
+  {
+    "id": "ac927658-b027-4372-9bd1-7df959156e34",
+    "name": "Corerequisite",
+    "creditHours": 9
+  },
+  {
+    "id": "b460a1b6-d464-4c56-a2c5-2a0694d8d952",
+    "name": "GSS",
+    "creditHours": 9
+  },
+  {
+    "id": "5b85328b-b978-4d56-b0cd-ffa49fe0c09c",
+    "name": "GFL",
+    "creditHours": 9
+  },
+  {
+    "id": "395de89d-2cdf-4730-9c45-cdc7fbe5d4fb",
+    "name": "Lab Science Elective",
+    "creditHours": 9
+  },
+  {
+    "id": "b78d2b74-603c-40c0-9348-9359db7a57bd",
+    "name": "Liberal Arts",
+    "creditHours": 9
+  },
+  {
+    "id": "7e25dfba-c004-4a0b-a38f-9a6972fc37ef",
+    "name": "CSCE Elective",
+    "creditHours": 9
+  }
+]

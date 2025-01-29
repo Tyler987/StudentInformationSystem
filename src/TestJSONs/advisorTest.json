@@ -1,0 +1,14 @@
+[
+    {
+      "id": "4d9d4dc2-7d3c-4437-a7a6-15c9b0f06a59",
+      "firstName": "Dr. Jane ",
+      "lastName": "Doe",
+      "advisees": [
+        "973d94b9-1b16-4b0a-a83c-a6b8cb0ffc20",
+        "b5bca4bf-1aba-4a05-a429-aaafdb59cfb7",
+        "18f80b3f-3227-4cf5-a61c-d29bc684b5d0"
+      ],
+      "email": "Jdoe@gmail.com",
+      "password": "Jdoe13579"
+    }
+  ]

@@ -1,0 +1,30 @@
+[
+    {
+      "id": "361a8573-0b0b-4738-becc-2b178b78fb25",
+      "name": "ENGL 101",
+      "creditHours": 3,
+      "categoryId": "PREREQUISITE",
+      "prerequisitesId": []
+    },
+    {
+      "id": "44fb4305-6751-4cd7-9135-c728f3f5b6e8",
+      "name": "MATH 141",
+      "creditHours": 4,
+      "categoryId": "PREREQUISITE",
+      "prerequisitesId": []
+    },
+    {
+      "id": "cd4ca777-8631-44a3-9f02-60480f42e9d2",
+      "name": "MATH 122",
+      "creditHours": 4,
+      "categoryId": "PREREQUISITE",
+      "prerequisitesId": ["MATH 111", "MATH 111I", "MATH 115"]
+    },
+    {
+      "id": "d744777a-2db5-4522-bab1-df09641df621",
+      "name": "CSCE 145",
+      "creditHours": 4,
+      "categoryId": "PREREQUISITE",
+      "prerequisitesId": []
+    }
+]

@@ -1,0 +1,24 @@
+[{
+    "id": "4d9d4dc2-7d3c-4437-a7a6-15c9b0f06a59",
+    "firstName": "Dr. Jane ",
+    "lastName": "Doe",
+    "advisees": [
+      "973d94b9-1b16-4b0a-a83c-a6b8cb0ffc20",
+      "b5bca4bf-1aba-4a05-a429-aaafdb59cfb7",
+      "18f80b3f-3227-4cf5-a61c-d29bc684b5d0"
+    ],
+    "email": "Jdoe@gmail.com",
+    "password": "Jdoe13579"
+  },
+  {
+    "id": "96575261-d61f-45c6-9610-143e05ca1e76",
+    "firstName": "Dr. John ",
+    "lastName": "Smith",
+    "advisees": [
+      "2e9fb54c-51f1-4c89-9d1e-7ca4d3a01eb7",
+      "6211a5a8-02cc-4c26-a57e-cbb138d4b3e5"
+    ],
+    "email": "Jsmith@gmail.com",
+    "password": "Jsmith24680"
+  }
+]

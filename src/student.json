@@ -1,0 +1,128 @@
+[
+  {
+    "id": "619bd589-9a03-421b-aea9-98f5e3fe8793",
+    "firstName": "Brax",
+    "lastName": "West",
+    "email": "bWest@gmail.com",
+    "password": "bwest12457",
+    "degreeId": "e82ab805-e4da-4858-85b7-545452d33ae1",
+    "uscId": "V12589135",
+    "gpa": 3.6,
+    "courses": [
+      "8ae79923-40dc-4783-874c-945ea52e7ade",
+      "25d63b66-40b4-42df-af26-43a106362477"
+    ],
+    "completed-courses": [
+      "361a8573-0b0b-4738-becc-2b178b78fb25",
+      "44fb4305-6751-4cd7-9135-c728f3f5b6e8",
+      "d744777a-2db5-4522-bab1-df09641df621",
+      "849d4fb5-c29a-4d9c-9757-9b357eda1e58",
+      "5b35e9db-ba9b-4a21-ba96-4c5e63bc9209",
+      "63fd962a-9e92-4292-915a-d1a72947d071",
+      "4c31123b-7528-41bc-982c-58bed4f83cd7",
+      "874851db-5001-40a6-ab1b-b2b9388b950e",
+      "04303f94-4e67-4687-861c-3dbab2746da7",
+      "3969772d-3472-404f-bd90-ad8e22dedd7b",
+      "c9f75fbd-04fa-4a83-b7f5-dc38e860202d",
+      "a86c496b-48f2-450f-b1c0-a9c232efecdf",
+      "25096d4a-3ffe-4456-ab3a-e2cdf9b260d9",
+      "da2aede6-fcc1-451f-8de0-a7f95fda28fa",
+      "16783005-6d4e-4a91-a820-454da8aea75a",
+      "3fcc8f54-9403-4852-8a6f-061c04b603e1",
+      "138f3244-b93d-4134-8600-a72725465e68",
+      "c3159567-8493-4073-806e-b6f35f207b48",
+      "bfbd910b-4f41-41ba-bf87-260573d6e6c7",
+      "0f17cb4a-8ed9-49ea-a49f-ea0153ea6f3c",
+      "949b7c2d-3011-4ed0-bfff-34a979061e20",
+      "9803962b-eb8a-40f1-af9d-a34dacd0b9e1",
+      "9a92682d-55b5-4cdc-94b7-5f8b46c19d01"
+        ],
+    "finalGrade": [81, 86, 86, 74, 90, 90, 83, 80, 80, 76, 87, 92, 92, 86, 90,92, 92, 90, 73, 90, 73, 92, 87],
+    "application_area": "Undecleared"
+  },
+  {
+    "id": "973d94b9-1b16-4b0a-a83c-a6b8cb0ffc20",
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "asmith@gmail.com",
+    "password": "asmith12345",
+    "degreeId": "e82ab805-e4da-4858-85b7-545452d33ae1",
+    "uscId": "V13579135",
+    "gpa": 3.4,
+    "courses": [
+      "d744777a-2db5-4522-bab1-df09641df621",
+      "849d4fb5-c29a-4d9c-9757-9b357eda1e58"
+    ],
+    "completed-courses": [],
+    "finalGrade":[],
+    "application_area": "Undecleared"
+  },
+  {
+    "id": "b5bca4bf-1aba-4a05-a429-aaafdb59cfb7",
+    "firstName": "Bob",
+    "lastName": "Jones",
+    "email": "bjones@gmail.com",
+    "password": "bjones12345",
+    "degreeId": "0649889f-5360-4e6d-9ca8-1777f0edaba1",
+    "uscId": "V24680246",
+    "gpa": 3.5,
+    "courses": [
+      "44fb4305-6751-4cd7-9135-c728f3f5b6e8",
+      "5b35e9db-ba9b-4a21-ba96-4c5e63bc9209"
+    ],
+    "completed-courses": [],
+    "finalGrade":[],
+    "application_area": "Undecleared"
+  },
+  {
+    "id": "18f80b3f-3227-4cf5-a61c-d29bc684b5d0",
+    "firstName": "Johnathan",
+    "lastName": "Sines",
+    "email": "jsines@gmail.com",
+    "password": "jsins12345",
+    "degreeId": "0649889f-5360-4e6d-9ca8-1777f0edaba1",
+    "uscId": "V35791357",
+    "gpa": 2.4,
+    "courses": [
+      "5b35e9db-ba9b-4a21-ba96-4c5e63bc9209",
+      "874851db-5001-40a6-ab1b-b2b9388b950e"
+    ],
+    "completed-courses": [],
+    "finalGrade":[],
+    "application_area": "Undecleared"
+  },
+  {
+    "id": "6211a5a8-02cc-4c26-a57e-cbb138d4b3e5",
+    "firstName": "Christolph",
+    "lastName": "Shweed",
+    "email": "cshweed@gmail.com",
+    "password": "cshweed12345",
+    "degreeId": "e82ab805-e4da-4858-85b7-545452d33ae1",
+    "uscId": "V46802468",
+    "gpa": 3.6,
+    "courses": [
+      "44fb4305-6751-4cd7-9135-c728f3f5b6e8",
+      "63fd962a-9e92-4292-915a-d1a72947d071"
+    ],
+    "completed-courses": [],
+    "finalGrade":[],
+    "application_area": "Undecleared"
+  },
+  {
+    "id": "2e9fb54c-51f1-4c89-9d1e-7ca4d3a01eb7",
+    "firstName": "Tawnie",
+    "lastName": "Hill",
+    "email": "thill@gmail.com",
+    "password": "thill12345",
+    "degreeId": "0649889f-5360-4e6d-9ca8-1777f0edaba1",
+    "uscId": "V52749618",
+    "gpa": 3.9,
+    "courses": [
+      "f56cc771-94d8-49fc-962b-0c63b760f02a",
+      "4a56823d-9544-4c36-bed1-c85b6b407360"
+    ],
+    "completed-courses": [],
+    "finalGrade":[],
+    "application_area": "Undecleared"
+  }
+]

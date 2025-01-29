@@ -1,0 +1,227 @@
+[
+  {
+    "id": "e82ab805-e4da-4858-85b7-545452d33ae1",
+    "name": "Computer_Science",
+    "totalCreditHours": 125,
+    "courses": [
+      {
+        "courseid": [
+          "361a8573-0b0b-4738-becc-2b178b78fb25",
+          "44fb4305-6751-4cd7-9135-c728f3f5b6e8",
+          "d744777a-2db5-4522-bab1-df09641df621",
+          "849d4fb5-c29a-4d9c-9757-9b357eda1e58"
+        ],
+        "preferredSemester": 1
+      },
+      {
+        "courseid": [
+          "63fd962a-9e92-4292-915a-d1a72947d071",
+          "4c31123b-7528-41bc-982c-58bed4f83cd7",
+          "874851db-5001-40a6-ab1b-b2b9388b950e",
+          "04303f94-4e67-4687-861c-3dbab2746da7",
+          "3969772d-3472-404f-bd90-ad8e22dedd7b",
+          "c9f75fbd-04fa-4a83-b7f5-dc38e860202d"
+        ],
+        "preferredSemester": 2
+      },
+      {
+        "courseid": [
+          "a86c496b-48f2-450f-b1c0-a9c232efecdf",
+          "25096d4a-3ffe-4456-ab3a-e2cdf9b260d9",
+          "16783005-6d4e-4a91-a820-454da8aea75a",
+          "3fcc8f54-9403-4852-8a6f-061c04b603e1",
+          "138f3244-b93d-4134-8600-a72725465e68"
+        ],
+        "preferredSemester": 3
+      },
+      {
+        "courseid": [
+          "c3159567-8493-4073-806e-b6f35f207b48",
+          "9803962b-eb8a-40f1-af9d-a34dacd0b9e1",
+          "9a92682d-55b5-4cdc-94b7-5f8b46c19d01"
+        ],
+        "preferredSemester": 4
+      },
+      {
+        "courseid": [
+          "8ae79923-40dc-4783-874c-945ea52e7ade",
+          "25d63b66-40b4-42df-af26-43a106362477",
+          "afa5c9a0-3b8a-4b79-ae2d-b00921374efe",
+          "3a38880e-8c04-40ea-8f68-fa17b76f84e9",
+          "4e0b8354-1e3a-4888-8e18-5700023c8d4a"
+        ],
+        "preferredSemester": 5
+      },
+      {
+        "courseid": [
+          "03ecaa1b-1df3-4300-a9fc-d426a2176b92",
+          "4a56823d-9544-4c36-bed1-c85b6b407360"
+        ],
+        "preferredSemester": 6
+      },
+      {
+        "courseid": [
+          "d8f7bd26-e5c3-44f6-a54f-84d7184ddc4a",
+          "95844506-9866-436c-bb9b-8f28f1bc1405",
+          "d22bf5c0-a7b1-4b24-9faa-bec887699ff8",
+          "444ca977-d02d-487a-8e27-6cfa544df04f"
+        ],
+        "preferredSemester": 7
+      },
+      {
+        "courseid": ["06bd1fae-0301-4303-9a1a-3bebf830ae97"],
+        "preferredSemester": 8
+      }
+    ],
+    "elective_requirements": [
+      {
+        "electiveName": "LAB_SCIENCE_ELECTIVE",
+        "creditHours": 4
+      },
+      {
+        "electiveName": "APPLICATION_AREA",
+        "creditHours": 9
+      },
+      {
+        "electiveName": "CSCE_ELECTIVE",
+        "creditHours": 9
+      },
+      {
+        "electiveName": "LIBERAL_ARTS",
+        "creditHours": 9
+      },
+      {
+        "electiveName": "GFL",
+        "creditHours": 6
+      },
+      {
+        "electiveName": "AIU",
+        "creditHours": 3
+      },
+      {
+        "electiveName": "CMS",
+        "creditHours": 3
+      },
+      {
+        "electiveName": "GSS",
+        "creditHours": 3
+      },
+      {
+        "electiveName": "GHS",
+        "creditHours": 3
+      }
+    ]
+  },
+  {
+    "id": "0649889f-5360-4e6d-9ca8-1777f0edaba1",
+    "name": "Computer_Information_Systems",
+    "totalCreditHours": 120,
+    "courses": [
+      {
+        "courseid": [
+          "361a8573-0b0b-4738-becc-2b178b78fb25",
+          "44fb4305-6751-4cd7-9135-c728f3f5b6e8",
+          "cd4ca777-8631-44a3-9f02-60480f42e9d2",
+          "d744777a-2db5-4522-bab1-df09641df621",
+          "849d4fb5-c29a-4d9c-9757-9b357eda1e58"
+        ],
+        "preferredSemester": 1
+      },
+      {
+        "courseid": [
+          "63fd962a-9e92-4292-915a-d1a72947d071",
+          "3969772d-3472-404f-bd90-ad8e22dedd7b",
+          "c9f75fbd-04fa-4a83-b7f5-dc38e860202d"
+        ],
+        "preferredSemester": 2
+      },
+      {
+        "courseid": [
+          "f6996293-9c1d-4ca8-8bdc-a6778e6a39d2",
+          "1af474ed-de30-4295-a78b-feeb88b95344",
+          "9803962b-eb8a-40f1-af9d-a34dacd0b9e1",
+          "6ed1ee68-2d06-47ed-abdb-d3f13fed2e9e"
+        ],
+        "preferredSemester": 3
+      },
+      {
+        "courseid": [
+          "8963dfb3-6b65-4d23-a8d9-cc65cd9ea011",
+          "25096d4a-3ffe-4456-ab3a-e2cdf9b260d9",
+          "8ae44e14-fd7b-4ef9-8e38-0aed58d7e7b1",
+          "effe7612-903b-4308-8594-75aad5bae988"
+        ],
+        "preferredSemester": 4
+      },
+      {
+        "courseid": [
+          "afa5c9a0-3b8a-4b79-ae2d-b00921374efe",
+          "3a38880e-8c04-40ea-8f68-fa17b76f84e9",
+          "cc90e5a4-5591-4521-88d0-36b0bc2b8b54",
+          "01cd2abe-999b-4b3a-b1be-d5c63a13738b",
+          "50feec94-b0e3-4cd0-96a3-3f6104bb694d",
+          "7aef60f9-4243-412e-b1cf-49741869c709"
+        ],
+        "preferredSemester": 5
+      },
+      {
+        "courseid": [
+          "01c8153f-c0cc-46df-b238-a92987b27e4b",
+          "6a7262f5-2d67-4ca0-8b12-5a1856a726ef",
+          "cc000ffb-3619-4fa7-b34b-7c1462d4d7fb"
+        ],
+        "preferredSemester": 6
+      },
+      {
+        "courseid": [
+          "d8f7bd26-e5c3-44f6-a54f-84d7184ddc4a",
+          "03ecaa1b-1df3-4300-a9fc-d426a2176b92",
+          "e790f89c-4123-48c1-8f42-0a4f93f84680"
+        ],
+        "preferredSemester": 7
+      },
+      {
+        "courseid": ["06bd1fae-0301-4303-9a1a-3bebf830ae97"],
+        "preferredSemester": 8
+      }
+    ],
+    "elective_requirements": [
+      {
+        "electiveName": "LAB_SCIENCE_ELECTIVE",
+        "creditHours": 4
+      },
+      {
+        "electiveName": "CSCE_ELECTIVE",
+        "creditHours": 3
+      },
+      {
+        "electiveName": "LIBERAL_ARTS",
+        "creditHours": 9
+      },
+      {
+        "electiveName": "GFL",
+        "creditHours": 6
+      },
+      {
+        "electiveName": "AIU",
+        "creditHours": 3
+      },
+      {
+        "electiveName": "CMS",
+        "creditHours": 3
+      },
+      {
+        "electiveName": "GSS",
+        "creditHours": 3
+      },
+      {
+        "electiveName": "GHS",
+        "creditHours": 3
+      },
+      {
+        "electiveName": "BIM",
+        "creditHours": 6
+      }
+    ]
+  }
+]
